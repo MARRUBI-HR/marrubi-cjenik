@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cjenik trgovac="R&amp;B STUDIO" oib="53208272280" adresa="Cehovska 12, 42000 Varaždin" oblik="webshop" oznaka_objekta="P-01" datum_objave="24.09.2026. 23:18">
+  <stavka vrsta="proizvod">
+    <naziv>ESSENTIAL PAKET</naziv>
+    <sifra>Essential paket</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>81,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>81,00</sidrena_cijena>
+    <datum_sidrene_cijene>06.02.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>FULL PAKET</naziv>
+    <sifra>Full paket</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>129,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>129,00</sidrena_cijena>
+    <datum_sidrene_cijene>06.02.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>GLOW PAKET</naziv>
+    <sifra>Glow paket</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>35,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>35,00</sidrena_cijena>
+    <datum_sidrene_cijene>06.02.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>PLUMP &amp; PREP PAKET</naziv>
+    <sifra>Plump &amp; Prep paket</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>55,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>55,00</sidrena_cijena>
+    <datum_sidrene_cijene>06.02.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>MARRUBI - Termo Boca 350ml</naziv>
+    <sifra>Boca Purple</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>20,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>20,00</sidrena_cijena>
+    <datum_sidrene_cijene>06.02.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>PLUMP IT UP</naziv>
+    <sifra>SKU PIU</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>38,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>38,00</sidrena_cijena>
+    <datum_sidrene_cijene>22.11.2025</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>FACE TOWELS</naziv>
+    <sifra>SKU FT</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>13,50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>12,50</sidrena_cijena>
+    <datum_sidrene_cijene>02.05.2025</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>FACE BRUSH</naziv>
+    <sifra>SKU FB</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>10,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>9,00</sidrena_cijena>
+    <datum_sidrene_cijene>02.05.2025</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>GUA SHA SCULPT</naziv>
+    <sifra>SKU GSS</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>16,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>16,00</sidrena_cijena>
+    <datum_sidrene_cijene>02.05.2025</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>RECOVERY OIL</naziv>
+    <sifra>SKU RO</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>54,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>42,00</sidrena_cijena>
+    <datum_sidrene_cijene>02.05.2025</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="usluga">
+    <naziv>Express dostava 1-3 radna dana</naziv>
+    <sifra>DOSTAVA-EXPRESS</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>pošiljka</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>4,50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>4,50</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="usluga">
+    <naziv>Standardna dostava 3-5 radnih dana</naziv>
+    <sifra>DOSTAVA-STANDARD</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>pošiljka</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>4,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>4,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="usluga">
+    <naziv>Standardna dostava 3-5 radnih dana, plaćanje pouzećem</naziv>
+    <sifra>DOSTAVA-POUZECE</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>pošiljka</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>4,95</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>4,95</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="usluga">
+    <naziv>HP dostava, plaćanje karticom</naziv>
+    <sifra>DOSTAVA-HP</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>pošiljka</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>3,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>3,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="usluga">
+    <naziv>GLS besplatna dostava</naziv>
+    <sifra>DOSTAVA-GLS-BESPLATNA</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>pošiljka</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>0,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>0,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+</cjenik>
