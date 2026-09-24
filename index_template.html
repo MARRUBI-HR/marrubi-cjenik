@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cjenik proizvoda i usluga - MARRUBI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root { --ink:#1d1a24; --muted:#6b6478; --lav:#b8abd8; --lav-deep:#6f5fa3; --bg:#fff; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 Montserrat, system-ui, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:56px 24px 72px; }
+  h1 { font-size:28px; font-weight:600; line-height:1.25; margin:0 0 16px; }
+  h2 { font-size:18px; font-weight:600; margin:40px 0 8px; padding-bottom:6px; border-bottom:2px solid var(--lav); }
+  p { margin:0 0 12px; }
+  ul { list-style:none; padding:0; margin:0; }
+  li { padding:6px 0; overflow-wrap:anywhere; }
+  a { color:var(--lav-deep); }
+  a:focus-visible { outline:2px solid var(--lav-deep); outline-offset:2px; }
+  .muted { color:var(--muted); font-size:14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Cjenik proizvoda i usluga, internetska trgovina MARRUBI</h1>
+  <p>{{COMPANY}}, {{ADDRESS}}. Cjenik se objavljuje sukladno Odluci o objavi cjenika proizvoda i usluga kao mjeri izravne kontrole cijena (NN 101/2026). Ažurira se svakog dana prije 8:00, a prethodni cjenici ostaju dostupni najmanje 30 dana.</p>
+
+  <h2>Aktualni cjenik</h2>
+  <ul>
+{{CURRENT}}
+  </ul>
+  <p class="muted">Stalne poveznice na zadnju verziju: <a href="cjenik.csv">cjenik.csv</a> i <a href="cjenik.xml">cjenik.xml</a></p>
+
+  <h2>Arhiva</h2>
+  <ul>
+{{ARCHIVE}}
+  </ul>
+
+  <p class="muted" style="margin-top:40px">Struktura: vrsta; naziv; šifra; marka; jedinica mjere; cijena za jedinicu mjere; maloprodajna cijena; posebni oblik prodaje; naziv posebnog oblika prodaje; sidrena cijena; datum sidrene cijene; barkod; dostupnost. CSV je UTF-8 s razdjelnikom „;“, XML je UTF-8. Cijene su u eurima s PDV-om. Zadnja objava: {{UPDATED}}. Webshop: <a href="{{SHOP}}">{{SHOP}}</a></p>
+</main>
+</body>
+</html>

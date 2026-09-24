@@ -1,0 +1,60 @@
+{
+  "shop_url": "https://ZAMIJENI-marrubi-domena.hr",
+  "custom_domain": "cjenik.ZAMIJENI-marrubi-domena.hr",
+  "brand": "MARRUBI",
+  "company": {
+    "name": "ZAMIJENI Naziv d.o.o.",
+    "oib": "",
+    "address": "ZAMIJENI Ulica 1, 10000 Zagreb"
+  },
+  "object_code": "P-01",
+  "timezone": "Europe/Zagreb",
+  "time_format": "%H-%M",
+  "decimal_separator": ",",
+  "sale_label": "Akcija",
+  "default_anchor_date": "10.09.2026",
+  "keep_days": 35,
+  "exclude_product_types": [],
+  "services": [
+    {
+      "naziv": "Express dostava 1-3 radna dana (narudžbe 5,00-59,99 €)",
+      "sifra": "DOSTAVA-EXPRESS",
+      "jedinica": "pošiljka",
+      "cijena": 4.5,
+      "sidrena_cijena": 4.5,
+      "datum_sidrene": "10.09.2026"
+    },
+    {
+      "naziv": "Standardna dostava 3-5 radnih dana (narudžbe 5,00-59,99 €)",
+      "sifra": "DOSTAVA-STANDARD",
+      "jedinica": "pošiljka",
+      "cijena": 4.0,
+      "sidrena_cijena": 4.0,
+      "datum_sidrene": "10.09.2026"
+    },
+    {
+      "naziv": "Standardna dostava 3-5 radnih dana, plaćanje pouzećem (narudžbe 2,00-59,99 €)",
+      "sifra": "DOSTAVA-POUZECE",
+      "jedinica": "pošiljka",
+      "cijena": 4.95,
+      "sidrena_cijena": 4.95,
+      "datum_sidrene": "10.09.2026"
+    },
+    {
+      "naziv": "HP dostava, plaćanje karticom (narudžbe 0,00-4,00 €)",
+      "sifra": "DOSTAVA-HP",
+      "jedinica": "pošiljka",
+      "cijena": 3.0,
+      "sidrena_cijena": 3.0,
+      "datum_sidrene": "10.09.2026"
+    },
+    {
+      "naziv": "GLS besplatna dostava (narudžbe od 60,00 €)",
+      "sifra": "DOSTAVA-GLS-BESPLATNA",
+      "jedinica": "pošiljka",
+      "cijena": 0.0,
+      "sidrena_cijena": 0.0,
+      "datum_sidrene": "10.09.2026"
+    }
+  ]
+}
