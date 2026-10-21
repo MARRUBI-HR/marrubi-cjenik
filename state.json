@@ -1,5 +1,5 @@
 {
-  "counter": 27,
+  "counter": 28,
   "published": [
     {
       "stem": "webshop_Cehovska-12-42000-Varaždin_P-01_1_24.09.2026_23-18",
@@ -108,6 +108,10 @@
     {
       "stem": "webshop_Cehovska-12-42000-Varaždin_P-01_27_20.10.2026_05-37",
       "time": "2026-10-20T05:37:11.235296+02:00"
+    },
+    {
+      "stem": "webshop_Cehovska-12-42000-Varaždin_P-01_28_21.10.2026_05-37",
+      "time": "2026-10-21T05:37:20.452701+02:00"
     }
   ]
 }
