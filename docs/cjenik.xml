@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik trgovac="R&amp;B STUDIO" oib="53208272280" adresa="Cehovska 12, 42000 Varaždin" oblik="webshop" oznaka_objekta="P-01" datum_objave="16.11.2026. 12:03">
+<cjenik trgovac="R&amp;B STUDIO" oib="53208272280" adresa="Cehovska 12, 42000 Varaždin" oblik="webshop" oznaka_objekta="P-01" datum_objave="22.11.2026. 12:11">
+  <stavka vrsta="proizvod">
+    <naziv>MARRUBI - Termo Boca 350ml Peach</naziv>
+    <sifra>Boca Peach</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>20,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>20,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
+  <stavka vrsta="proizvod">
+    <naziv>MINI FACE TOWELS</naziv>
+    <sifra>SKU MINI FT</sifra>
+    <marka>MARRUBI</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>7,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <sidrena_cijena>7,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026</datum_sidrene_cijene>
+    <barkod></barkod>
+    <dostupnost>dostupno</dostupnost>
+  </stavka>
   <stavka vrsta="proizvod">
     <naziv>ESSENTIAL PAKET</naziv>
     <sifra>Essential paket</sifra>
@@ -57,7 +85,7 @@
     <dostupnost>dostupno</dostupnost>
   </stavka>
   <stavka vrsta="proizvod">
-    <naziv>MARRUBI - Termo Boca 350ml</naziv>
+    <naziv>MARRUBI - Termo Boca 350ml Purple</naziv>
     <sifra>Boca Purple</sifra>
     <marka>MARRUBI</marka>
     <jedinica_mjere>kom</jedinica_mjere>
@@ -68,7 +96,7 @@
     <sidrena_cijena>20,00</sidrena_cijena>
     <datum_sidrene_cijene>06.02.2026</datum_sidrene_cijene>
     <barkod></barkod>
-    <dostupnost>dostupno</dostupnost>
+    <dostupnost>nedostupno</dostupnost>
   </stavka>
   <stavka vrsta="proizvod">
     <naziv>PLUMP IT UP</naziv>
