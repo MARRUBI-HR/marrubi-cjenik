@@ -1,9 +1,11 @@
 vrsta;naziv;sifra;marka;jedinica_mjere;cijena_za_jedinicu_mjere;maloprodajna_cijena;posebni_oblik_prodaje;naziv_posebnog_oblika_prodaje;sidrena_cijena;datum_sidrene_cijene;barkod;dostupnost
+proizvod;MARRUBI - Termo Boca 350ml Peach;Boca Peach;MARRUBI;kom;;20,00;NE;;20,00;10.09.2026;;dostupno
+proizvod;MINI FACE TOWELS;SKU MINI FT;MARRUBI;kom;;7,00;NE;;7,00;10.09.2026;;dostupno
 proizvod;ESSENTIAL PAKET;Essential paket;MARRUBI;kom;;81,00;NE;;81,00;06.02.2026;;dostupno
 proizvod;FULL PAKET;Full paket;MARRUBI;kom;;129,00;NE;;129,00;06.02.2026;;dostupno
 proizvod;GLOW PAKET;Glow paket;MARRUBI;kom;;35,00;NE;;35,00;06.02.2026;;dostupno
 proizvod;PLUMP & PREP PAKET;Plump & Prep paket;MARRUBI;kom;;55,00;NE;;55,00;06.02.2026;;dostupno
-proizvod;MARRUBI - Termo Boca 350ml;Boca Purple;MARRUBI;kom;;20,00;NE;;20,00;06.02.2026;;dostupno
+proizvod;MARRUBI - Termo Boca 350ml Purple;Boca Purple;MARRUBI;kom;;20,00;NE;;20,00;06.02.2026;;nedostupno
 proizvod;PLUMP IT UP;SKU PIU;MARRUBI;kom;;38,00;NE;;38,00;22.11.2025;;dostupno
 proizvod;FACE TOWELS;SKU FT;MARRUBI;kom;;13,50;NE;;12,50;02.05.2025;;dostupno
 proizvod;FACE BRUSH;SKU FB;MARRUBI;kom;;10,00;NE;;9,00;02.05.2025;;dostupno
